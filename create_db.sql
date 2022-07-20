@@ -1,0 +1,1 @@
+ CREATE TABLE `membership_users`( `id` INT(11) NOT NULL AUTO_INCREMENT,`id` numeric(60) DEFAULT NULL,`photo` VARCHAR(255),`memberID` VARCHAR(255),`passMD5` VARCHAR(255), `status` ENUM('0','1'), PRIMARY KEY (`id`) );
