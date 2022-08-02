@@ -54,7 +54,7 @@ $sql_query="INSERT INTO membership_users (`id`,`photo`,`memberID`,`passMD5`,`ema
 
 <div id="header">
  <div id="content">
-        <label>Core PHP Crud functions - <a href="http://www.crudgenerator.in" target="_blank">By PHP Code Builder</a></label>
+        <label>Core PHP - <a href="" target="_blank"></a></label>
     </div>
 </div>
 <div id="body">
