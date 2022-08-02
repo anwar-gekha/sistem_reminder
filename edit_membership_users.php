@@ -72,7 +72,7 @@ if(isset($_POST['btn-cancel']))
 
 <div id="header">
  <div id="content">
-        <label>Core PHP Crud functions - <a href="http://www.phpcodebuilder.com" target="_blank">By PHP Code Builder</a></label>
+        <label>Core PHP Crud functions - <a href=""_blank"></a></label>
     </div>
 </div>
 
