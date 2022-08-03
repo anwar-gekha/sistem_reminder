@@ -48,7 +48,7 @@ function changestatus_id(id,status)
 <center>
 
 <div id="container"> <div id="table-responsive">
-    <label>Core PHP Crud functions - <a href="http://www.phpcodebuilder.com" target="_blank">By PHP Code Builder</a></label>
+            <label>Core PHP Crud functions - <a href="" target="_blank">Code Builder</a></label>
     </div>
 </div>
 
